@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://evelyn-widyasari-kho.github.io/eva/sitemap.xml
